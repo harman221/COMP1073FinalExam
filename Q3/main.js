@@ -1,5 +1,5 @@
 function baby(){
-fetch('https://harman221.github.io/COMP1073FinalExam/cats.json')
+fetch('https://harman221.github.io/COMP1073FinalExam/Q3/cats.json')
 .then((resp) => resp.json())
 .then(function(data) {
 
